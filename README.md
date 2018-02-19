@@ -1,7 +1,13 @@
-# Mi Proyecto 
+## README
+==========
 
- Ejemplo de como usar el GIT desde linea de comandos
+Este es el README.
 
-## Antes de Empezar
 
- Revisar la guia de laboratorio
+## Ejemplos de markdown
+--------------------
+
+Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
++ Elemento 1
++ Elemento 2
++ Elemento 3
