@@ -15,3 +15,5 @@ Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
 ## Colaborador
 	
 	Ronald Miya
+
+	Jhosep Bazan
